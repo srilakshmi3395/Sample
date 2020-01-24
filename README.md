@@ -2,10 +2,10 @@
 Just creating a sample
 
 
-## Writing simple sample readable code Time Conversion
+## Writing simple sample readable code 
 
 
-## [TIME CONVERSION](https://github.com/srilakshmi3395/Sample/blob/master/Time%20Conversion%20.py)
+### [TIME CONVERSION](https://github.com/srilakshmi3395/Sample/blob/master/Time%20Conversion%20.py)
 
 
 Gets 2 input from Users.
