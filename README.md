@@ -1,10 +1,12 @@
 # Sample
 Just creating a sample
 
+##
+
 ## Writing simple sample readable code Time Conversion
 
 
-###TIME CONVERSION
+## TIME CONVERSION
 
 ##Hello
 
