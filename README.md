@@ -3,9 +3,8 @@ Just creating a sample
 
 ## Writing simple sample readable code
 
----
 
-##[Time Conversion](https://github.com/srilakshmi3395/Sample/blob/master/Time%20Conversion%20.py)
+##[Time Conversion] (https://github.com/srilakshmi3395/Sample/blob/master/Time%20Conversion%20.py)
 
 Gets 2 input from Users.
 Input 1 : Choice = It allows user to choose either seconds or minutes
