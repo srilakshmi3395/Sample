@@ -4,7 +4,7 @@ Just creating a sample
 ## Writing simple sample readable code
 
 
-##[Time Conversion](https://github.com/srilakshmi3395/Sample/blob/master/Time%20Conversion%20.py)
+##TIME CONVERSION
 
 
 Gets 2 input from Users.
